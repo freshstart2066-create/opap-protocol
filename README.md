@@ -89,7 +89,7 @@ A high-performance, single-page web dashboard with **zero external CDN dependenc
 
 ```sh
 # Clone repository
-git clone https://github.com/BIGFERRY999/opap-protocol.git
+git clone https://github.com/freshstart2066-create/opap-protocol.git
 cd opap-protocol
 
 # Create virtual environment and install dependencies
@@ -103,7 +103,7 @@ uv pip install -e .
 ```sh
 pytest -v
 ```
-*(All 15 unit and integration tests across GS1, DPP, EPCIS 2.0, AI Forensics, and Hardware Signers pass).*
+*(All 32 unit and integration tests across GS1, DPP, EPCIS 2.0, AI Forensics, Offline V-Pass, Key Transparency, and Hardware Signers pass).*
 
 ### 3. Launch Development Server
 
